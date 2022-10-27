@@ -1,20 +1,4 @@
 # Title
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## References
